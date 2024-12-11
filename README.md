@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SleepTight-Cat
 - 👀 I’m interested in 3D Reconstruction, Diffusion Model, and CVCG in general
 - 🌱 I’m currently learning 3DGS
-- 💞️ I’m looking to collaborate on everything!
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I have a Nekomata friend
 
