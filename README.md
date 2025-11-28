@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SleepTight-Cat
-- 👀 I’m interested in 3D Reconstruction, Diffusion Model, and CVCG in general
-- 🌱 I’m currently learning 3DGS
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: I have a Nekomata friend
+- I'm developing the Mitigation Planner for FFXIV, the project is currently under active progress
+- I'm also good at 3D vision / Reconstruction/ general ML.
 
 <!---
 SleepTight-Cat/SleepTight-Cat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
