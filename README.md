@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SleepTight-Cat
+- 👋 Hi, I’m @SleepTight
 - I'm developing the Mitigation Planner for FFXIV, the project is currently under active progress
 - I'm also good at 3D vision / Reconstruction/ general ML.
 
